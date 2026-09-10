@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Me — Eun Ju Lee Gallery</title>
+  <meta name="description" content="About Eun Ju Lee.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="page-fade-in">
+
+  <nav class="site-nav">
+    <a href="index.html" class="site-nav__name">Eun Ju Lee Gallery</a>
+    <button class="site-nav__menu-toggle" aria-expanded="false" aria-controls="primary-menu">Menu</button>
+    <ul class="site-nav__menu" id="primary-menu">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="my-art.html">My Art</a></li>
+      <li><a href="about.html" class="is-active">About Me</a></li>
+      <li class="site-nav__related">
+        <span class="site-nav__related-toggle" tabindex="0" aria-haspopup="true" aria-expanded="false">Related</span>
+        <div class="site-nav__related-panel">
+          <a href="https://example.com" target="_blank" rel="noopener">Check out this related site</a>
+        </div>
+      </li>
+    </ul>
+  </nav>
+
+  <main>
+    <div class="page-header">
+      <h1>About Me</h1>
+    </div>
+
+    <div class="about-layout">
+      <!-- Swap for a portrait of yourself, keeping the same filename -->
+      <div class="about-layout__figure">
+        <img src="images/about/portrait.jpg" alt="Portrait of Eun Ju Lee">
+      </div>
+      <div class="about-layout__body">
+        <p>Write a short introduction here — who you are, how you got into your work, and what draws you back to it. Two or three paragraphs is usually enough.</p>
+        <p>You can also mention the kind of work you focus on, or what you're currently working on.</p>
+        <div class="about-layout__contact">
+          <a href="mailto:you@example.com">Email</a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <span>&copy; <span id="year"></span> Eun Ju Lee</span>
+      <ul class="site-footer__links">
+        <li><a href="mailto:you@example.com">Email</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+</body>
+</html>
