@@ -19,21 +19,33 @@
 
 const artStories = [
   {
-    images: [
-      "images/art/piece-01.jpg",
-      "images/art/piece-01b.jpg",
-      "images/art/piece-01c.jpg",
-    ],
-    alt: "Replace with a description of this piece for screen readers",
-    meta: "Medium, Year",
-    title: "Piece title goes here",
-    text: "Write about this piece — what it is, what went into making it, and what it means to you. A few sentences is plenty; let the image carry the rest.",
+    images: ["images/art/IMG_0857.jpeg"],
+    alt: "Birch tree in woods",
+    title: "Birch Tree in Woods",
+    text: "Birch tree surrounded by thick green foliage, dense bushes, and taller, darker evergreen trees stretching into the background. Style used knife and brush touched to capture the sunlight filtering through the woods. Inspired by the peaceful atmosphere of tranquil woods.",
   },
   {
-    images: ["images/art/piece-02.jpg"],
-    alt: "Replace with a description of this piece for screen readers",
-    meta: "Medium, Year",
-    title: "Piece title goes here",
-    text: "Write about this piece — what it is, what went into making it, and what it means to you. A few sentences is plenty; let the image carry the rest.",
+    images: ["images/art/IMG_0859.jpeg"],
+    alt: "Moss-covered big tree in Sunlit Forest",
+    title: "Moss-Covered Big Tree in Sunlit Forest",
+    text: "Inspired by the vibrant moment of sunlight through a dense green forest, the artist captures the big, moss-covered wood with deep comfort, nature's silence, and a sense of ancient peace.",
+  },
+    {
+    images: ["images/art/IMG_0860.jpeg"],
+    alt: "Landscape of a Pebbled Riverbed",
+    title: "Landscape of a Pebbled Riverbed",
+    text: "A rocky or pebbled riverbed with shallow, clear water in fall. The peaceful, serene atmosphere comforts me and brings back memories of my rural hometown.",
+  },
+    {
+    images: ["images/art/IMG_0861.jpeg"],
+    alt: "Sunrise in the Winter Mountains",
+    title: "Sunrise in the Winter Mountains",
+    text: "The sunrise of a snowy mountain inspired a vibrant moment to start a new day; the cold winter mountain start to melt down slowly by bright sunrise.",
+  },
+    {
+    images: ["images/art/IMG_0863.jpeg"],
+    alt: "Winter Landscape",
+    title: "Winter Landscape",
+    text: "Serene snowy hill with a dark winter tree and wild shrubs, blending with a snowy mountain. Inspired by a rural hometown landscape.",
   },
 ];
