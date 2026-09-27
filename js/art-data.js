@@ -19,31 +19,31 @@
 
 const artStories = [
   {
-    images: ["images/art/IMG_0857.jpeg"],
+    images: ["images/art/IMG_0857.jpg"],
     alt: "Birch tree in woods",
     title: "Birch Tree in Woods",
-    text: "Birch tree surrounded by thick green foliage, dense bushes, and taller, darker evergreen trees stretching into the background. Style used knife and brush touched to capture the sunlight filtering through the woods. Inspired by the peaceful atmosphere of tranquil woods.",
+    text: "미국 플로리다로 이민 온 후 한국의 해질녘 숲을 뗘올리며 이 그림을 그렸습니다. 솔나무 숲속에 한 그루의 하얀 자작나무는 고향 땅을 떠올리게 합니다. 평화로 왔던 숲속에 새소리와 솔잎 바람소리들이 들리는 것 같습니다. 작가는 평온한 해질녘의 숲속을 오롯이 이 그림 속에 담고자 하였습니다. 이 그림은 붓과 나이프를 사용하여 그림의 생생함을 담고자 하였으며, 마음속의 고향에 대한 그리움을 표현하고자 하였습니다.",
   },
   {
-    images: ["images/art/IMG_0859.jpeg"],
+    images: ["images/art/IMG_0859.jpg"],
     alt: "Moss-covered big tree in Sunlit Forest",
     title: "Moss-Covered Big Tree in Sunlit Forest",
     text: "Inspired by the vibrant moment of sunlight through a dense green forest, the artist captures the big, moss-covered wood with deep comfort, nature's silence, and a sense of ancient peace.",
   },
     {
-    images: ["images/art/IMG_0860.jpeg"],
+    images: ["images/art/IMG_0860.jpg"],
     alt: "Landscape of a Pebbled Riverbed",
     title: "Landscape of a Pebbled Riverbed",
     text: "A rocky or pebbled riverbed with shallow, clear water in fall. The peaceful, serene atmosphere comforts me and brings back memories of my rural hometown.",
   },
     {
-    images: ["images/art/IMG_0861.jpeg"],
+    images: ["images/art/IMG_0861.jpg"],
     alt: "Sunrise in the Winter Mountains",
     title: "Sunrise in the Winter Mountains",
     text: "The sunrise of a snowy mountain inspired a vibrant moment to start a new day; the cold winter mountain start to melt down slowly by bright sunrise.",
   },
     {
-    images: ["images/art/IMG_0863.jpeg"],
+    images: ["images/art/IMG_0863.jpg"],
     alt: "Winter Landscape",
     title: "Winter Landscape",
     text: "Serene snowy hill with a dark winter tree and wild shrubs, blending with a snowy mountain. Inspired by a rural hometown landscape.",
