@@ -68,9 +68,9 @@ const artStories = [
   },
     {
     images: ["images/art/IMG_0861.jpg"],
-    alt: "Sunrise in the Winter Mountains",
-    title: "Sunrise in the Winter Mountains",
-    text: "The sunrise of a snowy mountain inspired a vibrant moment to start a new day; the cold winter mountain start to melt down slowly by bright sunrise.",
+    alt: "눈 덮인 산의 일출 (Sunrise in the Winter Mountains)",
+    title: "눈 덮인 산의 일출 (Sunrise in the Winter Mountains)",
+    text: "멀리 높은 눈 덮인 산 위로 떠오르는 해살은  이어진 눈 덮인 언덕 사이를 흐르는 강물을 발갛게 물들입니다. 작가는 겨울산의 해돋이를 생생하게 표현하며 시골 고향의 겨울날의 그리움을 표현하고자 하였습니다. 눈 덮인 산속과 흐르는 강물은 새로운 일출을 맞아 얼어붙은 겨울날의 추억을 떠올리게 합니다. 작가는 붓터치를 이용하여 겨울날의 해돋이 잔상을 생생하게 표현하고자 하였습니다.",
   },
     {
     images: ["images/art/IMG_0863.jpg"],
