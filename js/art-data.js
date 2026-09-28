@@ -19,22 +19,52 @@
 
 const artStories = [
   {
+    images: ["images/art/IMG_0875.jpg"],
+    alt: "Courtyard Entrance",
+    title: "Courtyard Entrance",
+    text: "Test",
+  },
+  {
+    images: ["images/art/IMG_0874.jpg"],
+    alt: "Scene of Rocky Valley",
+    title: "Scene of Rocky Valley",
+    text: "Test",
+  },
+  {
+    images: ["images/art/IMG_0870.jpg"],
+    alt: "Landscape of Woods",
+    title: "Landscape of Woods",
+    text: "Test",
+  },
+  {
+    images: ["images/art/IMG_0868.jpg"],
+    alt: "Childhood at Sunset Beach",
+    title: "Childhood at Sunset Beach",
+    text: "Test",
+  },
+  {
+    images: ["images/art/IMG_0866.jpg"],
+    alt: "A Girl on a Stormy Beach",
+    title: "A Girl on a Stormy Beach",
+    text: "Test",
+  },
+  {
     images: ["images/art/IMG_0857.jpg"],
-    alt: "Birch tree in woods",
+    alt: "Birch Tree in Woods",
     title: "Birch Tree in Woods",
     text: "미국 플로리다로 이민 온 후 한국의 해질녘 숲을 뗘올리며 이 그림을 그렸습니다. 솔나무 숲속에 한 그루의 하얀 자작나무는 고향 땅을 떠올리게 합니다. 평화로 왔던 숲속에 새소리와 솔잎 바람소리들이 들리는 것 같습니다. 작가는 평온한 해질녘의 숲속을 오롯이 이 그림 속에 담고자 하였습니다. 이 그림은 붓과 나이프를 사용하여 그림의 생생함을 담고자 하였으며, 마음속의 고향에 대한 그리움을 표현하고자 하였습니다.",
   },
   {
     images: ["images/art/IMG_0859.jpg"],
     alt: "Moss-covered big tree in Sunlit Forest",
-    title: "Moss-Covered Big Tree in Sunlit Forest",
-    text: "Inspired by the vibrant moment of sunlight through a dense green forest, the artist captures the big, moss-covered wood with deep comfort, nature's silence, and a sense of ancient peace.",
+    title: "햇살에 비친 이끼낀 고목 (Moss-Covered Big Tree in Sunlit Forest)",
+    text: "숲속에 이끼가 덮인 고목은 세월의 고독함과 시련을 견디며 서 있습니다. 작가는 숲속에서 마주한 이끼 낀 고목이 주는 설렘과 그 그리움이 짙은 햇살을 맞아 생생하게 다시 살아나는 순간을 표현하고자 했습니다. 생생한 나무 숲 사이로 새어 나온 햇살은 고독한 이끼 낀 고목을 생생히 비추며, 여린 새 나뭇가지는 고목나무의 새로운 시작의 설렘을 표현합니다. 나이프를 이용하여 숲의 생생함을 표현하고자 하였습니다.",
   },
     {
     images: ["images/art/IMG_0860.jpg"],
     alt: "Landscape of a Pebbled Riverbed",
-    title: "Landscape of a Pebbled Riverbed",
-    text: "A rocky or pebbled riverbed with shallow, clear water in fall. The peaceful, serene atmosphere comforts me and brings back memories of my rural hometown.",
+    title: "자갈 강변의 풍경 (Landscape of a Pebbled Riverbed)",
+    text: "어릴 적 고향 강변에서 뛰어놀던 기억을 떠올리며 이 그림을 그렸습니다. 자그마한 물고기들이 숨어 있는 돌들을 들추며 웃으며 놀던 그 시절이 떠오릅니다. 가을녘의 강변은 자갈들로 덮여 이젠 쓸쓸하게 보이지만 작가의 동심 속의 그 강변은 물고기를 잡으며 뛰어놀던 아름다운 추억으로 가득 차 있습니다. 가을의 시골 강변의 고요함은 작가의 추억을 회상하게 하며 지친 마음을 위로하게 합니다. 이 그림은 붓터치를 이용하여 고요함과 그리움을 표현하고자 하였습니다.",
   },
     {
     images: ["images/art/IMG_0861.jpg"],
