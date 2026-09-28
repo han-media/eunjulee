@@ -51,7 +51,7 @@ const artStories = [
   {
     images: ["images/art/IMG_0857.jpg"],
     alt: "(Birch Tree in Woods)",
-    title: "Birch Tree in Woods",
+    title: "숲속의 자작나무 (Birch Tree in Woods)",
     text: "미국 플로리다로 이민 온 후 한국의 해질녘 숲을 뗘올리며 이 그림을 그렸습니다. 솔나무 숲속에 한 그루의 하얀 자작나무는 고향 땅을 떠올리게 합니다. 평화로 왔던 숲속에 새소리와 솔잎 바람소리들이 들리는 것 같습니다. 작가는 평온한 해질녘의 숲속을 오롯이 이 그림 속에 담고자 하였습니다. 이 그림은 붓과 나이프를 사용하여 그림의 생생함을 담고자 하였으며, 마음속의 고향에 대한 그리움을 표현하고자 하였습니다.",
   },
   {
@@ -74,8 +74,8 @@ const artStories = [
   },
     {
     images: ["images/art/IMG_0863.jpg"],
-    alt: "Winter Landscape",
-    title: "Winter Landscape",
-    text: "Serene snowy hill with a dark winter tree and wild shrubs, blending with a snowy mountain. Inspired by a rural hometown landscape.",
+    alt: "겨울의 잔상 (Winter Landscape)",
+    title: "겨울의 잔상 (Winter Landscape)",
+    text: "눈 덮인 시골 고향의 겨울을 떠올리며 이 그림을 그렸습니다. 발이 푹푹 빠지며 걸었던 시골 고향의 겨울, 이 그림은 추웠던 그 시절의 혹독한 기억들을 떠올리게 합니다. 앙상한 겨울 나무들은 외로이 겨울의 추위를 견디며 서 있습니다, 고향의 겨울은 너무나 추웠습니다. 발목까지 빠지며 걸었던 그날의 겨울은 이제 그리운 겨울 추억의 잔상이 되어 남아 있습니다. 작가는 붓터치를 이용하여 세밀하게 그 겨울을 화폭에 담아 보고자 하였습니다.",
   },
 ];
