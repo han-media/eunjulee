@@ -19,36 +19,6 @@
 
 const artStories = [
   {
-    images: ["images/art/IMG_0875.jpg"],
-    alt: "Courtyard Entrance",
-    title: "Courtyard Entrance",
-    text: "Test",
-  },
-  {
-    images: ["images/art/IMG_0874.jpg"],
-    alt: "Scene of Rocky Valley",
-    title: "Scene of Rocky Valley",
-    text: "Test",
-  },
-  {
-    images: ["images/art/IMG_0870.jpg"],
-    alt: "Landscape of Woods",
-    title: "Landscape of Woods",
-    text: "Test",
-  },
-  {
-    images: ["images/art/IMG_0868.jpg"],
-    alt: "Childhood at Sunset Beach",
-    title: "Childhood at Sunset Beach",
-    text: "Test",
-  },
-  {
-    images: ["images/art/IMG_0866.jpg"],
-    alt: "A Girl on a Stormy Beach",
-    title: "A Girl on a Stormy Beach",
-    text: "Test",
-  },
-  {
     images: ["images/art/IMG_0857.jpg"],
     alt: "(Birch Tree in Woods)",
     title: "숲속의 자작나무 (Birch Tree in Woods)",
@@ -77,5 +47,35 @@ const artStories = [
     alt: "겨울의 잔상 (Winter Image)",
     title: "겨울의 잔상 (Winter Image)",
     text: "눈 덮인 시골 고향의 겨울을 떠올리며 이 그림을 그렸습니다. 발이 푹푹 빠지며 걸었던 시골 고향의 겨울, 이 그림은 추웠던 그 시절의 혹독한 기억들을 떠올리게 합니다. 앙상한 겨울 나무들은 외로이 겨울의 추위를 견디며 서 있습니다, 고향의 겨울은 너무나 추웠습니다. 발목까지 빠지며 걸었던 그날의 겨울은 이제 그리운 겨울 추억의 잔상이 되어 남아 있습니다. 작가는 붓터치를 이용하여 세밀하게 그 겨울을 화폭에 담아 보고자 하였습니다.",
+  },
+  {
+    images: ["images/art/IMG_0875.jpg"],
+    alt: "Courtyard Entrance",
+    title: "Courtyard Entrance",
+    text: "Test",
+  },
+  {
+    images: ["images/art/IMG_0874.jpg"],
+    alt: "Scene of Rocky Valley",
+    title: "Scene of Rocky Valley",
+    text: "Test",
+  },
+  {
+    images: ["images/art/IMG_0870.jpg"],
+    alt: "Landscape of Woods",
+    title: "Landscape of Woods",
+    text: "Test",
+  },
+  {
+    images: ["images/art/IMG_0868.jpg"],
+    alt: "Childhood at Sunset Beach",
+    title: "Childhood at Sunset Beach",
+    text: "Test",
+  },
+  {
+    images: ["images/art/IMG_0866.jpg"],
+    alt: "A Girl on a Stormy Beach",
+    title: "A Girl on a Stormy Beach",
+    text: "Test",
   },
 ];
