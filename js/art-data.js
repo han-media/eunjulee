@@ -50,7 +50,7 @@ const artStories = [
   },
   {
     images: ["images/art/IMG_0857.jpg"],
-    alt: "Birch Tree in Woods",
+    alt: "(Birch Tree in Woods)",
     title: "Birch Tree in Woods",
     text: "미국 플로리다로 이민 온 후 한국의 해질녘 숲을 뗘올리며 이 그림을 그렸습니다. 솔나무 숲속에 한 그루의 하얀 자작나무는 고향 땅을 떠올리게 합니다. 평화로 왔던 숲속에 새소리와 솔잎 바람소리들이 들리는 것 같습니다. 작가는 평온한 해질녘의 숲속을 오롯이 이 그림 속에 담고자 하였습니다. 이 그림은 붓과 나이프를 사용하여 그림의 생생함을 담고자 하였으며, 마음속의 고향에 대한 그리움을 표현하고자 하였습니다.",
   },
